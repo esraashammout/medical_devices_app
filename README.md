@@ -3,11 +3,13 @@
 A comprehensive mobile application for the Medical Devices Management System, built with Flutter. This app serves clients, allowing them to browse, purchase, rent, and manage medical devices seamlessly.
 
 ---
+![Uploading photo_2025-09-01_21-41-59.jpg…]()
 
 ![photo_2025-09-01_21-41-53](https://github.com/user-attachments/assets/0c5736ca-1b66-4d4e-ac00-a8b964129860)
 
 ![photo_2025-09-01_21-41-59](https://github.com/user-attac![photo_2025-09-01_21-41-56](https://github.com/user-attachments/assets/15d7fb1f-da8a-4ce8-9328-0763b2923395)
 hments/assets/80f5926e-dc9b-4118-ac6c-44b5a656bee1)
+
 
 ## ✨ Features
 
